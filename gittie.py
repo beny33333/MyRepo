@@ -1,5 +1,5 @@
-print('Siema')
-print('Druga zmiana')
+print('Nara')
+print('Rush banana')
 
 
 def joke():
